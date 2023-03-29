@@ -1,57 +1,8 @@
-b51055@LAB-RJCC101 MINGW64 ~/mining/minarando-textos-no-terminal-dupla-LL/Dados/machado (main)
-$ ls
-CONTENTS  README  contos/  critica/  cronica/  miscelanea/  poesia/  romance/  teatro/  traducao/
+Primeiramente, dentro de cada um dos subdiretórios de Dados/machado, fazemos cat *.txt >> arquivo_n.txt para colocar o conteúdo de todos os arquivos do subdiretórios num novo arquivo.
+Em seguida, fazemos mv arquivo_n.txt /c/Users/b51055/minarando-textos-no-terminal-dupla-LL/Dados/machado para mover os arquivos criados para Dados/machado.
+Dessa forma, em Dados/machado, fazemos cat arquivo_1.txt arquivo_2.txt ... arquivo_8.txt >> arquivao.txt, colocando o conteúdo de toda a obra em arquivao.txt.
+Por fim, para contar a quantidade de palavras da obra, basta fazer
 
-b51055@LAB-RJCC101 MINGW64 ~/mining/minarando-textos-no-terminal-dupla-LL/Dados/machado (main)
-$ cd contos
 
-b51055@LAB-RJCC101 MINGW64 ~/mining/minarando-textos-no-terminal-dupla-LL/Dados/machado/contos (main)
-$ cat *.txt > intermediario.txt
+wc arquivao.txt
 
-b51055@LAB-RJCC101 MINGW64 ~/mining/minarando-textos-no-terminal-dupla-LL/Dados/machado/contos (main)
-$ cd ../critica
-
-b51055@LAB-RJCC101 MINGW64 ~/mining/minarando-textos-no-terminal-dupla-LL/Dados/machado/critica (main)
-$ cat *.txt >> intermediario.txt
-
-b51055@LAB-RJCC101 MINGW64 ~/mining/minarando-textos-no-terminal-dupla-LL/Dados/machado/critica (main)
-$ cd ../cronica
-
-b51055@LAB-RJCC101 MINGW64 ~/mining/minarando-textos-no-terminal-dupla-LL/Dados/machado/cronica (main)
-$ cat *.txt >> intermediario.txt
-
-b51055@LAB-RJCC101 MINGW64 ~/mining/minarando-textos-no-terminal-dupla-LL/Dados/machado/cronica (main)
-$ cd ../miscelanea
-
-b51055@LAB-RJCC101 MINGW64 ~/mining/minarando-textos-no-terminal-dupla-LL/Dados/machado/miscelanea (main)
-$ cat *.txt >> intermediario.txt
-
-b51055@LAB-RJCC101 MINGW64 ~/mining/minarando-textos-no-terminal-dupla-LL/Dados/machado/miscelanea (main)
-$ cd ../poesia
-
-b51055@LAB-RJCC101 MINGW64 ~/mining/minarando-textos-no-terminal-dupla-LL/Dados/machado/poesia (main)
-$ cat *.txt >> intermediario.txt
-
-b51055@LAB-RJCC101 MINGW64 ~/mining/minarando-textos-no-terminal-dupla-LL/Dados/machado/poesia (main)
-$ cd ../romance
-
-b51055@LAB-RJCC101 MINGW64 ~/mining/minarando-textos-no-terminal-dupla-LL/Dados/machado/romance (main)
-$ cat *.txt >> intermediario.txt
-
-b51055@LAB-RJCC101 MINGW64 ~/mining/minarando-textos-no-terminal-dupla-LL/Dados/machado/romance (main)
-$ cd ../teatro
-
-b51055@LAB-RJCC101 MINGW64 ~/mining/minarando-textos-no-terminal-dupla-LL/Dados/machado/teatro (main)
-$ cat *.txt >> intermediario.txt
-
-b51055@LAB-RJCC101 MINGW64 ~/mining/minarando-textos-no-terminal-dupla-LL/Dados/machado/teatro (main)
-$ cd ../traducao
-
-b51055@LAB-RJCC101 MINGW64 ~/mining/minarando-textos-no-terminal-dupla-LL/Dados/machado/traducao (main)
-$ cat *.txt >> intermediario.txt
-
-b51055@LAB-RJCC101 MINGW64 ~/mining/minarando-textos-no-terminal-dupla-LL/Dados/machado/traducao (main)
-$ wc intermediario.txt
-  28291  182137 1144431 intermediario.txt
-
-Logo, há 28291 linhas, 182137 palavras e 1144431 caracteres.
