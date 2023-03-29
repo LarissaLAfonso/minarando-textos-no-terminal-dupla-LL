@@ -1,0 +1,730 @@
+==> macn001.txt <==
+Conto, Contos Fluminenses, 1870
+
+==> macn002.txt <==
+Conto, Historias da Meia-Noite, 1873
+
+==> macn003.txt <==
+Conto, Papéis Avulsos, 1882
+
+==> macn004.txt <==
+Conto, Histórias sem Data, 1884
+
+==> macn005.txt <==
+Conto, Várias histórias, 1896
+
+==> macn006.txt <==
+Conto, Páginas Recolhidas, 1899
+
+==> macn007.txt <==
+Conto, Relíquias de Casa Velha, 1906
+
+==> macn008.txt <==
+Conto, Três Tesouros Perdidos, 1858
+
+==> macn009.txt <==
+Conto, O País das quimeras, 1862
+
+==> macn010.txt <==
+Conto, Virginius, 1864
+
+==> macn011.txt <==
+CONTO, Casada e viúva, 1864
+
+==> macn012.txt <==
+Conto, O anjo das donzelas, 1864
+
+==> macn013.txt <==
+Conto, Questão de Vaidade, 1864
+
+==> macn014.txt <==
+Conto, Cinco mulheres, 1865
+
+==> macn015.txt <==
+Conto, Uma excursão milagrosa, 1866
+
+==> macn016.txt <==
+Conto, Diana, 1866
+
+==> macn017.txt <==
+Conto, Felicidade pelo casamento, 1866
+
+==> macn018.txt <==
+Conto, Fernando e Fernanda, 1866
+
+==> macn019.txt <==
+Conto, O oráculo, 1866
+
+==> macn020.txt <==
+Conto, O pai, 1866
+
+==> macn021.txt <==
+Conto, A pianista, 1866
+
+==> macn022.txt <==
+Conto, O que são as moças, 1866
+
+==> macn023.txt <==
+Conto, Francisca, 1867
+
+==> macn024.txt <==
+Conto, História de uma lágrima, 1867
+
+==> macn025.txt <==
+Conto, Onda, 1867
+
+==> macn026.txt <==
+Conto, Possível e impossível, 1867
+
+==> macn027.txt <==
+Conto, O último dia de um poeta, 1867
+
+==> macn028.txt <==
+Conto, O carro n° 13, 1868
+
+==> macn029.txt <==
+Conto, Não é mel para boca de asno, 1868
+
+==> macn030.txt <==
+Conto, O anjo Rafael, 1869
+
+==> macn031.txt <==
+Conto, O capitão Mendonça, 1870
+
+==> macn032.txt <==
+Conto, O rei dos caiporas, 1870
+
+==> macn033.txt <==
+Conto, A vida eterna, 1870
+
+==> macn034.txt <==
+CONTO, Almas Agradecidas, 1871.htm
+
+==> macn035.txt <==
+Conto, Ayres e Vergueiro, 1871
+
+==> macn036.txt <==
+Conto, O Caminho de Damasco, 1871
+
+==> macn037.txt <==
+Conto, Mariana, 1871
+
+==> macn038.txt <==
+Conto, Uma Águia sem Asas, 1872
+
+==> macn039.txt <==
+Conto, Uma loureira, 1872
+
+==> macn040.txt <==
+Conto, Qual dos Dois,1872
+
+==> macn041.txt <==
+Conto, Quem Não Quer Ser Lobo, 1872
+
+==> macn042.txt <==
+Conto, Rui de Leão, 1872
+
+==> macn043.txt <==
+Conto, Decadência de dois grandes homens, 1873
+
+==> macn044.txt <==
+Conto, Um Homem superior, 1873
+
+==> macn045.txt <==
+Conto, Nem uma nem outra, 1873
+
+==> macn046.txt <==
+Conto, Quem conta um conto, 1873
+
+==> macn047.txt <==
+Conto, Tempo de crise, 1873
+
+==> macn048.txt <==
+Conto, Miloca, 1874
+
+==> macn049.txt <==
+Conto, Um dia de entrudo, 1874
+
+==> macn050.txt <==
+Conto, Muitos Anos Depois, 1874
+
+==> macn051.txt <==
+Conto, Os óculos de Pedro Antão, 1874
+
+==> macn052.txt <==
+Conto, Valério, 1874
+
+==> macn053.txt <==
+Conto, Antes que cases, 1875
+
+==> macn054.txt <==
+Conto, Brincar com fogo, 1875
+
+==> macn055.txt <==
+Conto, A Mágoa do infeliz Cosme, 1875
+
+==> macn056.txt <==
+Conto, Onze anos depois, 1875
+
+==> macn057.txt <==
+Conto, A última receita, 1875
+
+==> macn058.txt <==
+Conto, Um esqueleto, 1875
+
+==> macn059.txt <==
+Conto, O sainete, 1875
+
+==> macn060.txt <==
+Conto, Casa, não casa, 1875
+
+==> macn061.txt <==
+Conto, Longe dos Olhos, 1876
+
+==> macn062.txt <==
+Conto, O Astrólogo, 1876
+
+==> macn063.txt <==
+Conto, D. Mônica, 1876
+
+==> macn064.txt <==
+Conto, Encher tempo, 1876
+
+==> macn065.txt <==
+Conto, O Passado, o passado, 1876
+
+==> macn066.txt <==
+Conto, Sem olhos, 1876
+
+==> macn067.txt <==
+Conto, To be or not to be, 1876
+
+==> macn068.txt <==
+Conto, História de uma fita azul, 1876
+
+==> macn069.txt <==
+Conto, Um Almoço, 1877
+
+==> macn070.txt <==
+Conto, Um Ambicioso, 1877
+
+==> macn071.txt <==
+Conto, A melhor das noivas, 1877
+
+==> macn072.txt <==
+Conto, Silvestre, 1877
+
+==> macn073.txt <==
+Conto, Antes da Missa, 1878
+
+==> macn074.txt <==
+Conto, O Califa de Platina, 1878
+
+==> macn075.txt <==
+Conto, Um Cão de Lata ao Rabo, 1878
+
+==> macn076.txt <==
+Conto, Conversão de um avaro, 1878
+
+==> macn077.txt <==
+Conto, Dívida extinta, 1878
+
+==> macn078.txt <==
+Conto, Elogio da Vaidade, 1878
+
+==> macn079.txt <==
+Conto, Filosofia de um Par de Botas, 1878
+
+==> macn080.txt <==
+Conto, A Herança, 1878
+
+==> macn081.txt <==
+Conto, O Machete, 1878
+
+==> macn082.txt <==
+Conto, Folha Rota, 1878
+
+==> macn083.txt <==
+Conto, A chave, 1879
+
+==> macn084.txt <==
+Conto, O Caso da Viúva, 1881
+
+==> macn085.txt <==
+Conto, A mulher pálida, 1881
+
+==> macn086.txt <==
+Conto, O imortal, 1882
+
+==> macn087.txt <==
+Conto, Letra Vencida, 1882
+
+==> macn088.txt <==
+Conto, O programa, 1882
+
+==> macn089.txt <==
+Conto, A idéia do Ezequiel Maia, 1883
+
+==> macn090.txt <==
+Conto, Médico é remédio, 1883
+
+==> macn091.txt <==
+Conto, História comum, 1883
+
+==> macn092.txt <==
+Conto, O destinado, 1883
+
+==> macn093.txt <==
+Conto, Troca de datas, 1883
+
+==> macn094.txt <==
+Conto, Questões de maridos, 1883
+
+==> macn095.txt <==
+Conto, Três conseqüências, 1883
+
+==> macn096.txt <==
+Conto, Vidros quebrados, 1883
+
+==> macn097.txt <==
+Conto, Cantiga velha, 1883
+
+==> macn098.txt <==
+Conto, Metafísica das Rosas, 1883
+
+==> macn099.txt <==
+Conto, Trina e Una, 1884
+
+==> macn100.txt <==
+Conto, O contrato, 1884
+
+==> macn101.txt <==
+Conto, A Carteira, 1884
+
+==> macn102.txt <==
+Conto, O Melhor Remédio, 1884
+
+==> macn103.txt <==
+Conto, A Viúva Sobral, 1884
+
+==> macn104.txt <==
+Conto, Entre duas datas, 1884
+
+==> macn105.txt <==
+Conto, Vinte Anos! Vinte Anos!, 1884
+
+==> macn106.txt <==
+Conto, O Caso do Romualdo, 1884
+
+==> macn107.txt <==
+Conto, Uma Carta, 1884
+
+==> macn108.txt <==
+Conto, Só, 1885
+
+==> macn109.txt <==
+Conto, Habilidoso, 1885
+
+==> macn110.txt <==
+Conto, Viagem à roda de mim mesmo, 1885
+
+==> macn111.txt <==
+Conto, Curta História, 1886
+
+==> macn112.txt <==
+Conto, Um Dístico, 1886
+
+==> macn113.txt <==
+Conto, Astúcias de marido, 1866
+
+==> macn114.txt <==
+Conto, Pobre Cardeal, 1886
+
+==> macn115.txt <==
+Conto, Terpsícore, 1886
+
+==> macn116.txt <==
+Conto, Antes a Rocha Tarpéia, 1887
+
+==> macn117.txt <==
+Conto, Identidade, 1887
+
+==> macn118.txt <==
+Conto, Sales, 1887
+
+==> macn119.txt <==
+Conto, Dona Jucunda, 1889
+
+==> macn120.txt <==
+Conto, Como se inventaram os almanaques, 1890
+
+==> macn121.txt <==
+Conto, Pobre Finoca!, 1891
+
+==> macn122.txt <==
+Conto, O Caso Barreto, 1892.htm
+
+==> macn123.txt <==
+Conto, Uma Partida, 1892
+
+==> macn124.txt <==
+Conto, Um Sonho e Outro Sonho, 1892
+
+==> macn125.txt <==
+Conto, Um Quarto de Século, 1893
+
+==> macn126.txt <==
+Conto, Vênus! Divina Vênus!, 1893
+
+==> macn127.txt <==
+Conto, A inglesinha Barcelos, 1894
+
+==> macn128.txt <==
+Conto, João Fernandes, 1894
+
+==> macn129.txt <==
+Conto, Uma Noite, 1895
+
+==> macn130.txt <==
+Conto, Orai por ele!, 1895
+
+==> macn131.txt <==
+Conto, Um Incêndio, 1906
+
+==> macn132.txt <==
+Conto, Uma por Outra, 1897
+
+==> macn133.txt <==
+Conto, Flor Anônima, 1897
+
+==> macn134.txt <==
+Conto, Jogo do Bicho, 1904
+
+==> macn135.txt <==
+Conto, O Escrivão Coimbra, 1906
+
+==> macn136.txt <==
+Conto, Bagatela, 1859
+
+==> macn137.txt <==
+Conto, Um para o outro, 1879
+==> mact01.txt <==
+Crítica, O passado, o presente e o futuro da literatura, 1858
+
+==> mact02.txt <==
+CRÍTICA, Idéias sobre o Teatro, 1859
+
+==> mact03.txt <==
+CRÍTICA, Revista dos Teatros, 1859
+
+==> mact04.txt <==
+CRÍTICA, Revista Dramática, 1860
+
+==> mact05.txt <==
+Crítica, A crítica teatral, A crítica teatral. José de Alencar : Mãe,
+
+==> mact06.txt <==
+Crítica, crítica variada no Diário do Rio Janeiro, 1862
+
+==> mact07.txt <==
+Crítica, Flores e Frutos, de Bruno Seabra, 1862
+
+==> mact08.txt <==
+CRÍTICA, Pareceres de Machado de Assis, 1862
+
+==> mact09.txt <==
+Crítica, A Constituinte perante a história, pelo sr. HOMEM DE MELO. —
+
+==> mact10.txt <==
+Crítica, Peregrinação pela província de S. Paulo. por A. E. Zaluar, 1863
+
+==> mact11.txt <==
+Crítica, Revelações, de A. E. Zaluar, 1863
+
+==> mact12.txt <==
+Crítica, Suplício de uma uma mulher, 1865
+
+==> mact13.txt <==
+Crítica, O ideal do crítico, 1865
+
+==> mact14.txt <==
+Crítica, Álvares de Azevedo: Lira dos vinte anos, 1866
+
+==> mact15.txt <==
+Crítica, Crítica teatral, 1906
+
+==> mact16.txt <==
+Crítica, Fagundes Varela - Cantos e fantasias, 1866
+
+==> mact17.txt <==
+Crítica, J.M. de Macedo: O culto do dever, 1866
+
+==> mact18.txt <==
+Crítica, José de Alencar: Iracema, 186
+
+==> mact19.txt <==
+Crítica, Junqueira Freire - Inspirações do claustro, 1866
+
+==> mact20.txt <==
+Crítica, Porto Alegre: Colombo, 1866
+
+==> mact21.txt <==
+Crítica, Propósito, 1866
+
+==> mact22.txt <==
+Crítica, Castro Alves, 1868
+
+==> mact23.txt <==
+Crítica, Lúcio de Mendonça: Névoas matutinas, 1872
+
+==> mact24.txt <==
+Crítica, Un cuento endemoniado  e La mujer misteriosa, de Guilherme Malta, 1938
+
+==> mact25.txt <==
+Crítica, Notícia da atual literatura brasileira, 1873
+
+==> mact26.txt <==
+Crítica, Fagundes Varela, 1875
+
+==> mact27.txt <==
+Crítica, Eça De Queirós: O Primo Basílio, 1878
+
+==> mact28.txt <==
+Crítica, Francisco de Castro: Harmonias errantes, 1878.
+
+==> mact29.txt <==
+Crítica, A nova geração, 1879
+
+==> mact30.txt <==
+Crítica, Carlos Jansen: Contos seletos das mil e uma noites, 1882
+
+==> mact31.txt <==
+Crítrica, Raimundo Correia: Sinfonias, 1883
+
+==> mact32.txt <==
+Crítica, Alberto de Oliveira: Meridionais, 1884
+
+==> mact33.txt <==
+Crítica, Enéias Galvão: Miragens, 1885
+
+==> mact34.txt <==
+Crítica, L. L. Fernandes Pinheiro Júnior: Tipos e quadros, 1886
+
+==> mact35.txt <==
+Crítica, José de Alencar: O Guarani, 1887
+
+==> mact36.txt <==
+Crítica, Henriqueta Renan, 1896
+
+==> mact37.txt <==
+Crítica, Discursos na Academia Brasileira de Letras, 1897
+
+==> mact38.txt <==
+Crítica, Magalhães de Azeredo: Procelárias, 1898
+
+==> mact39.txt <==
+Crítica, 7.	Cenas da vida amazônica, de José Veríssimo, 1899
+
+==> mact40.txt <==
+Crítica, Garrett, 1899
+
+==> mact41.txt <==
+Crítica, Eça de Queirós, 1900
+
+==> mact42.txt <==
+Crítica, Eduardo Prado, 1901
+
+==> mact43.txt <==
+Crítica, Magalhães de Azeredo: Horas sagradas; Mário de Alencar: Versos, 1902
+
+==> mact44.txt <==
+Crítica, Oliveira Lima: Secretário D’El-Rei, 1904
+
+==> mact45.txt <==
+Crítica, Joaquim Nabuco: Pensées détachées et souvenirs, 1906
+==> macr01.txt <==
+CRÔNICA, Comentários da Semana, 1861
+
+==> macr02.txt <==
+CRÔNICA. Cronicas do Dr. Semana, 1861
+
+==> macr03.txt <==
+CRÔNICA. Cronicas (O Futuro), 1862
+
+==> macr04.txt <==
+CRÔNICA, Ao Acaso, 1864.htm
+
+==> macr05.txt <==
+CRÔNICA,Cartas Fluminenses,1867
+
+==> macr06.txt <==
+CRÔNICA, Badaladas, 1871
+
+==> macr07.txt <==
+CRÔNICA.  Historia de quinze dias, 1876
+
+==> macr08.txt <==
+CRÔNICA. Historia dos Trinta Dias, 1878
+
+==> macr09.txt <==
+Crônica, Notas semanais, 1878
+
+==> macr10.txt <==
+CRÔNICA, Balas de estalo,1883
+
+==> macr11.txt <==
+CRÔNICA, Bons dias,1888
+
+==> macr12.txt <==
+Crônica, A semana, 1892
+
+==> macr13.txt <==
+CRÔNICA. O Jornal e o Livro, 1859
+
+==> macr14.txt <==
+CRÔNICA. A reforma pelo jornal, 1859
+
+==> macr15.txt <==
+CRÔNICA, Aquarelas, 1859
+
+==> macr16.txt <==
+CRÔNICA. O Visconde de Castilho, 1875
+
+==> macr17.txt <==
+CRÔNICA. Cherchez la Femme, 1881
+
+==> macr18.txt <==
+CRÔNICA. José de Alencar , 1883
+
+==> macr19.txt <==
+CRÔNICA, Joaquim Serra, 1888
+
+==> macr20.txt <==
+CRÔNICA. O futuro dos argentinos, 1888
+
+==> macr21.txt <==
+CRÔNICA. Entre 1892 e 1894, 1892
+
+==> macr22.txt <==
+CRÔNICA. Henrique Chaves, 1893
+
+==> macr23.txt <==
+CRÔNICA. Henrique Lombaerts, 1897
+
+==> macr24.txt <==
+CRÔNICA.  O Velho Senado, 1898
+==> mams01.txt <==
+MISCELÂNEA, Os Imortais, 1859
+
+==> mams02.txt <==
+MISCELÂNEA, Queda que as mulheres têm  para os tolos, 1861
+
+==> mams03.txt <==
+MISCELÂNEA, Carta ao Sr. Bispo do RJ, 1862
+
+==> mams04.txt <==
+ROMANCE, Casa Velha,1885
+
+==> mams05.txt <==
+MISCELÂNEA, Pedro Luís, 1884
+
+==> mams06.txt <==
+MISCELÂNEA, A Morte de Francisco Otaviano, 1889
+
+==> mams07.txt <==
+MISCELÂNEA, Secretaria de Agricultura, 1890
+
+==> mams08.txt <==
+MISCELÂNEA, A paixão de Jesus, 1904
+
+==> mams09.txt <==
+MISCELÂNEA, Gonçalves Dias, 1906
+
+==> mams10.txt <==
+MISCELÂNEA, A Estátua de José de Alencar,1906
+==> maps01.txt <==
+Poesia, Crisálidas, 1864
+
+==> maps02.txt <==
+Poesia, Falenas, 1870
+
+==> maps03.txt <==
+Poesia, Americanas, 1875
+
+==> maps04.txt <==
+POESIA, Gazeta de Holanda, 1886
+
+==> maps05.txt <==
+Poesia, Ocidentais, 1901
+
+==> maps06.txt <==
+Poesia, O Almada, 1910
+
+==> maps07.txt <==
+Poesia, Poesias dispersas, 1855-1939
+==> marm01.txt <==
+ROMANCE, Ressurreição,1872
+
+==> marm02.txt <==
+ROMANCE, A Mão e a Luva,1874
+
+==> marm03.txt <==
+ROMANCE, Helena,1876
+
+==> marm04.txt <==
+ROMANCE, Iaiá Garcia,1878
+
+==> marm05.txt <==
+Romance, Memórias Póstumas de Brás Cubas, 1880
+
+==> marm06.txt <==
+ROMANCE, Casa Velha,1885
+
+==> marm07.txt <==
+ROMANCE, Quincas Borba,1891
+
+==> marm08.txt <==
+Romance, Dom Casmurro, 1899
+
+==> marm09.txt <==
+ROMANCE, Esaú e Jacó,1904
+
+==> marm10.txt <==
+ROMANCE, Memorial de Aires,1908
+==> matt01.txt <==
+TEATRO, As Forcas Caudinas, 1956
+
+==> matt02.txt <==
+TEATRO, Hoje avental, amanhã luva, 1860
+
+==> matt03.txt <==
+TEATRO, Desencantos, 1861
+
+==> matt04.txt <==
+TEATRO, O caminho da porta - O protocolo, 1863
+
+==> matt05.txt <==
+TEATRO, Quase ministro,1864
+
+==> matt06.txt <==
+TEATRO, Os Deuses de casaca, 1866
+
+==> matt07.txt <==
+TEATRO, O Bote de Rapé, 1878
+
+==> matt08.txt <==
+TEATRO, Tu, só tu, puro amor, 1880
+
+==> matt09.txt <==
+TEATRO, Não Consultes Médico, 1899
+
+==> matt10.txt <==
+TEATRO, Lição de Botânica, 1906
+==> matr01.txt <==
+TRADUÇÃO, Suplício de uma uma mulher,1865
+
+==> matr02.txt <==
+TRADUÇÃO, Suplício de uma uma mulher,1866
+
+==> matr03.txt <==
+TRADUÇÃO, Suplício de uma uma mulher,1865
