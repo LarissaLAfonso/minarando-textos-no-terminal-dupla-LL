@@ -1,4 +1,3 @@
 
-wc -w arquivao.txt > numeros.txt
-awk '{print $2}' > resposta_ex_2.txt
+wc -w arquivao.txt > resposta_ex_1.txt
 
